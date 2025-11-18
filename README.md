@@ -15,3 +15,4 @@ Datasets Used:
 
 3.
 
+Purpose of this notebook: This repository contains our analysis and code for determining the best neighborhood in Pittsburgh using multiple datasets.
