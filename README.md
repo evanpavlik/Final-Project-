@@ -11,9 +11,8 @@ Datasets Used:
  Link: https://data.wprdc.org/dataset/arrest-data  
  Description: Contains records of police arrests in Pittsburgh, including arrest locations, incident neighborhoods, etc.
 
-2. Real Estate Data
-   Link:https://data.wprdc.org/dataset/city-owned-property
-   Description: Contains all the data for Real Estate in the Pittsburgh Area, The neighborhoods with the lowest average prices are the most affordable, and vise versa
+2. Services in Pittsburgh Data
+   Link:
 
 4.
 
