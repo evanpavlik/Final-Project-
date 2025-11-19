@@ -11,8 +11,10 @@ Datasets Used:
  Link: https://data.wprdc.org/dataset/arrest-data  
  Description: Contains records of police arrests in Pittsburgh, including arrest locations, incident neighborhoods, etc.
 
-2.
+2. Real Estate Data
+   Link:https://data.wprdc.org/dataset/city-owned-property
+   Description: Contains all the data for Real Estate in the Pittsburgh Area, The neighborhoods with the lowest average prices are the most affordable, and vise versa
 
-3.
+4.
 
 Purpose of this notebook: This repository contains our analysis and code for determining the best neighborhood in Pittsburgh using multiple datasets.
