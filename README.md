@@ -19,4 +19,6 @@ Datasets Used:
 Link: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 Description: Contains all of the traffic count in neighborhoods in Pittsburgh. This will be used to determine how safe neighborhoods in Pittsburgh will be. Fewer accidents, smoother flow of traffic, and easy parking access will all be factors to determine the "bestness" of the neighborhoods.
 
+WAS GOING TO DO REAL ESTATE BUT NEVER DID. NEVER FIGURED OUT HOW TO DELETE IT FROM OUR GITHUB
+
 Purpose of this notebook: This repository contains our analysis and code for determining the best neighborhood in Pittsburgh using multiple datasets.
